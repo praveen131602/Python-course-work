@@ -4,5 +4,6 @@ def display(uname,email,password):
     print(f'Password :{password}')
     print('\n\n')
 
-display(email='akhi',uname='akhi@gmail.com',password='vas123')
-display(email='abhi',uname='abhi@gmail.com',password='abh113')
+display(email='praveen',uname='praveen1302@gmail.com',password='prabha123')
+display(email='prabha',uname='praveen1302.com',password='prabha1316')
+
